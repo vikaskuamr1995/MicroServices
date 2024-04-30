@@ -12,6 +12,7 @@
 	<artifactId>Payment-Services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Payment-Services</name>
+	<packaging>war</packaging>
 	<description>Payment-Services</description>
 	<properties>
 		<java.version>17</java.version>
